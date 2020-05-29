@@ -21,9 +21,9 @@
 
 declare(strict_types=1);
 
-namespace dktapps\pmforms;
+namespace LousWiteMC\AdvancedJobs\libs\dktapps\pmforms;
 
-use dktapps\pmforms\element\CustomFormElement;
+use LousWiteMC\AdvancedJobs\libs\dktapps\pmforms\element\CustomFormElement;
 use pocketmine\form\FormValidationException;
 use pocketmine\Player;
 use pocketmine\utils\Utils;
