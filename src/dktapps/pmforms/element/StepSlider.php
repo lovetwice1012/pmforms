@@ -21,7 +21,7 @@
 
 declare(strict_types=1);
 
-namespace dktapps\pmforms\element;
+namespace LousWiteMC\AdvancedJobs\libs\dktapps\pmforms\element;
 
 class StepSlider extends BaseSelector{
 
