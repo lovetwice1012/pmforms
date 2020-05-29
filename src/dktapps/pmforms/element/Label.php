@@ -21,7 +21,7 @@
 
 declare(strict_types=1);
 
-namespace dktapps\pmforms\element;
+namespace LousWiteMC\AdvancedJobs\libs\dktapps\pmforms\element;
 
 /**
  * Element which displays some text on a form.
