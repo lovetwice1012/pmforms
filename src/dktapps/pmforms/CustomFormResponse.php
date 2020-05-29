@@ -21,7 +21,7 @@
 
 declare(strict_types=1);
 
-namespace dktapps\pmforms;
+namespace LousWiteMC\AdvancedJobs\libs\dktapps\pmforms;
 
 class CustomFormResponse{
 	/** @var array */
